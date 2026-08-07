@@ -1,0 +1,42 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 40px;
+}
+
+h2 {
+  color: #bf5700;
+}
+
+#header {
+  text-align: center;
+  border-bottom: 3px solid #bf5700;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+#header h1 {
+  color: #bf5700;
+  margin-bottom: 5px;
+}
+
+.logo {
+  width: 180px;
+  height: auto;
+}
+
+.section {
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  margin: 20px;
+}
+
+a {
+  color: #bf5700;
+}
+
+a:hover {
+  color: #000000;
+}
